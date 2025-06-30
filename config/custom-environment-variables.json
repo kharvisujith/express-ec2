@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": "PORT"
+  },
+  "cors": {
+    "enabled": "CORS_ENABLED"
+  }
+} 
