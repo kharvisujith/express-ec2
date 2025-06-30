@@ -147,7 +147,7 @@ module.exports = {
   apps: [{
     name: 'simple-express-api',
     script: 'dist/server.js',
-    instances: 1,
+    instances: 2,
     autorestart: true,
     watch: false,
     max_memory_restart: '1G',
