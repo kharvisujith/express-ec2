@@ -94,7 +94,7 @@
 # Make sure this file is in your EC2 instance and executable (chmod +x deploy.sh)
 
 APP_DIR="/home/ubuntu/test-app"
-REPO_URL="https://github.com/YOUR_USERNAME/YOUR_REPO.git"   # Change this!
+REPO_URL="https://github.com/kharvisujith/express-ec2.git"   # Change this!
 BRANCH="production"   # Change branch name if needed
 
 echo "\n🚀 Starting deployment..."
